@@ -2,7 +2,7 @@ bin
 obj
 csx
 .vs
-.vscode
+
 edge
 Publish
 
@@ -32,8 +32,8 @@ dist
 # Python Environments
 .env
 .venv
-.vscode/
-.vscode
+
+
 env/
 venv/
 ENV/
